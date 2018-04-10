@@ -7,6 +7,11 @@
   .clear:after {
     clear: both; }
 
+  .b {
+    color: #000000;
+  }
+
+ 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -31,10 +36,12 @@ audio:not([controls]) {
   display: none; }
 
 a {
+  color: #ffffff;
   background-color: transparent; }
 
 a:active, a:hover {
-  outline: 0; }
+  outline: 0; 
+  }
 
 abbr[title] {
   border-bottom: 1px dotted; }
@@ -48,6 +55,12 @@ dfn {
 h1 {
   font-size: 2em;
   margin: .67em 0; }
+
+  .logo {
+    width: 100px;
+    height: auto;
+    align="middle"
+  }
 
 mark {
   background: #ff0;
@@ -475,9 +488,9 @@ p {
       .slide#slide01 section, .slide#slide02 section, .slide#slide03 section {
         margin: 0 auto; }
     .slide#slide01 {
-      color: #ffffff; }
+      color: #212121; }
     .slide#slide02 {
-      color: #ffffff; }
+      color:  #212121; }
       .slide#slide02 .wrapper {
         top: auto;
         bottom: 40%;
