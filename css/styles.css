@@ -11,8 +11,12 @@
     color: #000000;
   }
 
-  .body {
-    background-color: #2a2b2d:
+  #intro {
+    background-color: #2a2b2d;
+  }
+
+  .main-container {
+    background-color:  #2a2b2d; 
   }
 
  
