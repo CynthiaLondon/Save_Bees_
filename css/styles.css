@@ -11,6 +11,10 @@
     color: #000000;
   }
 
+  .body {
+    background-color: #2a2b2d:
+  }
+
  
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -372,8 +376,8 @@ p {
 .button {
   text-decoration: none;
   color: #ffffff;
-  border: 1px rgba(255, 255, 255, 0.7) solid;
-  padding: 8px 15px;
+  border: 2px rgba(255, 255, 255, 0.7) solid;
+  padding: 20px 25px;
   margin-top: 15px;
   display: inline-block;
   position: relative; }
