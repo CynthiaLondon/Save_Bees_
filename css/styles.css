@@ -19,6 +19,8 @@
     background-color:  #2a2b2d; 
   }
 
+  
+
  
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -415,7 +417,6 @@ p {
   .footer-container h6 {
     margin: 0;
     padding: 20px 0;
-    padding-bottom: 20px;
     font-weight: normal; }
   .footer-container a {
     color: rgba(255, 255, 255, 0.5); }
