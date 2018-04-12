@@ -22,6 +22,19 @@
   abody {
     color: black;
   }
+
+  .link a {
+    color: #000000;
+    font-weight: bold;
+  }
+
+  .box2  {
+    border:1px solid #021a40;
+  }
+  .box3  {
+    border:1px solid #021a40;
+    width: 642px;
+  }
   
   .input-group {
     padding-top: 10px;
