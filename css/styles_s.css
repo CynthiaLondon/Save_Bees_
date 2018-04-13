@@ -16,19 +16,11 @@
    
   }
 
-  #title {
-    color: #b8c0c7;
-    font-family: 'Abril Fatface', cursive;
-    font-size: 68px;
-    text-align: center;
-  }
+ 
+.title {
+  font-size: 43px
+}
 
-  #titledd {
-    color: #b8c0c7;
-    
-    font-size: 18px;
-    text-align: left;
-  }
 
 
   
